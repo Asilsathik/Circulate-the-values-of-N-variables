@@ -15,9 +15,9 @@ Get the value from the user for the number of rotation
 Using the slicing concept rotate the list
 
 ### Step 5: 
-n= int
+store the rotated list in a variable
 ### Step 6: 
-print("After circulating the values are:",l)
+print the rotated list
 ## Program:
 ```
 #Program to circulate N values.
